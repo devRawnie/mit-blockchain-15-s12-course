@@ -6,8 +6,8 @@
 2. [Brief history of money](https://spectrum.ieee.org/history-of-money)
 3. [Brief history of ledgers](https://medium.com/unraveling-the-ouroboros/a-brief-history-of-ledgers-b6ab84a7ff41)
 4. [What is money, video](http://www.wsj.com/video/what-is-money-an-artists-make-and-take/DAC445B2-B01C-42ED-B928-91E5E7FC3BA3.html)
-5. [Long road to bitcoin | Book](./satoshi_nakamoto_bitcoin_epaper.pdf) 
-6. [Bitcoin White Paper by Satoshi Nakamoto](./bitcoin_and_crypto_technologies.pdf)
+5. [Long road to bitcoin | Book](./bitcoin_and_crypto_technologies.pdf)
+6. [Bitcoin White Paper by Satoshi Nakamoto](./satoshi_nakamoto_bitcoin_epaper.pdf)
 
 ## Money
 
