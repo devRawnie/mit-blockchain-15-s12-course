@@ -1,6 +1,11 @@
 # What is Blockchain
 
-1st Blockchain ever created -> Stuart Haber, Bell Labs Late 1990
+## Readings
+1. [Blockchain and the payment riddle](./Gary Gensler_ How blockchain can solve the payments riddle - Comment & Profiles.pdf)
+2. [Blockchain, a catalyst of change](./Geneva21.pdf)
+- Continue from chapter 3
+
+> 1st Blockchain ever created -> Stuart Haber, Bell Labs Late 1990. Longest running blockchain by time, used to store digital documents
 
 - Verifiably moves **data** on a decentralized network
 - Data can represent value, computer code (Digital assets, Smart Contract) etc
@@ -25,7 +30,8 @@ Satoshi Nakamoto, in his `p2p e-cash paper` emailed on 31 October, 2008 answered
 - Consensus Protocol
 - Cost of Trust
 - Byzantine Generals Problem (Satoshi solved this)
-
+  - There is a group of generals preparing to attack. They need to reach a common consensus amongst themselves about whether to attack or not. They have to communicate among themselves. Some generals are actually perpetrators, so among these bad parties they need to reach a common consensus
+ 
 - What is Money?
   - Store of Value
   - Medium of exchanging services
@@ -51,3 +57,11 @@ Financial sector prefers:
 - Unknown participants
 - Security based on incentives
 - Native currency is required for incentive
+
+### Zero Knowledge Proofs
+
+They allow one party to prove that a statement is true, without revealing the details of the statement
+
+### Hard forks
+
+A split in the chain. This generally occurs when a group of people accept some proposed change in the Chain (Which is incompatible with the current chain) and, others choose to stay with the original implementation
