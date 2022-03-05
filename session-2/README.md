@@ -31,22 +31,24 @@
 
 **History**
 
-_Non metal money_
+### Non metal money
 - Ehitopia: Salt Bars (Scarce)
 - Nigeria: Cowrie Shells (Scarce)
 - England: Tally sticks (Track Debt) 
 - Yap: Rai Stones
 
-_Metal Money_
+### Metal Money
 - Bronze
 - Copper
 
-_Minted Money_ : Official emblem was placed on a scarce resource
+### Minted Money
+
+Official emblem was placed on a scarce resource
 - Broze Yuan - China
 - Silver - Greece
 - Gold Aureus - Rome
 
-_Paper Money_
+### Paper Money
 
 - Not enough gold?
 - Easy to use
@@ -55,9 +57,10 @@ _Paper Money_
 
 > Cryptofinance?
 
-_Private Bank Notes_
+### Private Bank Notes
 
-### Ledger
+## Ledger
+
 - Record of Acconunts used for
   - Economic Activity
   - Financial relationships (Creditors, Debt)
@@ -65,22 +68,24 @@ _Private Bank Notes_
   - Balance ledger vs Transaction Ledger
   - General ledger (Stores all transactions) vs Subsidiary ledger "Sub Ledger" (Specializations, store specific transactions)
   - Single Entry vs Double Entry (Debit + Credit / Assets + Liability are recorded)
+  - `Capital = Assets - Liability`
 - Properties (For good ledger)
   - Immutable + Consistent
   - Time stamped
   - Parties involved
   - Description
 
-**Payment Systems**
+## Payment Systems
 
 - Mechanism to `Record and Amend` changes in Ledgers for Money
 - Bank Deposits, Withdrawls, Negotiable orders
 
-**Legal Tender**
+## Legal Tender
+
 - Socially acceptable norm, used to settle debts
 
+## FIAT Currency
 
-**FIAT Currency**
 - Has social + economic consensus
 - Liability of Central Bank
   - Because notes can be issued indefinitely. Central bank can issue notes only against the reserves that it has 
